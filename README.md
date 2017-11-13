@@ -10,3 +10,4 @@ My slides!
 * 2016.7 "Talk is cheap, show me the code - How we rooted 10 million phones with one exploit again",MOSEC 2016
 * 2016.11 "Rooting every Android: From Extension To Exploitation",Black Hat Europe 16'
 * 2017.7 "Defeating Samsung KNOX With Zero Privilege",Black Hat USA 17'
+* 2017.11 "The Art of Exploiting Unconventional Use-after-free Bugs in Android Kernel", Pacsec & Code Blue 2017
