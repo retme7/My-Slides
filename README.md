@@ -11,3 +11,4 @@ My slides!
 * 2016.11 "Rooting every Android: From Extension To Exploitation",Black Hat Europe 16'
 * 2017.7 "Defeating Samsung KNOX With Zero Privilege",Black Hat USA 17'
 * 2017.11 "The Art of Exploiting Unconventional Use-after-free Bugs in Android Kernel", Pacsec & Code Blue 2017
+* 2019.10 "Attacking DRM subsystem to gain kernel privilege on Chromebooks", Code Blue 2019
